@@ -1,0 +1,17 @@
+.content-wrapper p {
+    font-size: 30px;
+    font-family: 'Exo 2', sans-serif;
+    padding: 5% 5%;
+}
+
+.content-wrapper h1 {
+    font-size: 50px;
+    font-family: 'Exo 2', sans-serif;
+    padding: 3% 5% 0 5%;
+}
+
+.content-wrapper h2 {
+    font-size: 30px;
+    font-family: 'Exo 2', sans-serif;
+    padding: 2% 4% 0 4%;
+}
